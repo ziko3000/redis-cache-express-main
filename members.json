@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "id": "m1n2b3",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "roleId": "abc123"
+    },
+    {
+      "id": "v4c5x6",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "roleId": "def456"
+    },
+    {
+      "id": "z7a8q9",
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "roleId": "ghi789"
+    },
+    {
+      "id": "k2l3m4",
+      "name": "Emily Lee",
+      "email": "emily.lee@example.com",
+      "roleId": "jkl012"
+    }
+  ]
+}

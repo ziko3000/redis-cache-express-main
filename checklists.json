@@ -1,0 +1,19 @@
+{
+  "checklists": [
+    {
+      "id": "a8s7df",
+      "title": "Daily Tasks",
+      "locationIds": ["k1j2l3", "5h6g7f", "q9w8e7"]
+    },
+    {
+      "id": "b6c5v4",
+      "title": "Weekly Goals",
+      "locationIds": ["z3x4c5", "r2t3y4"]
+    },
+    {
+      "id": "m8n7b6",
+      "title": "Monthly Review",
+      "locationIds": ["v6b5n4", "u3i2o1", "1p2o3"]
+    }
+  ]
+}

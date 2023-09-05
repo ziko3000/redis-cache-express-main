@@ -1,0 +1,24 @@
+{
+  "buildings": [
+    {
+      "id": "b8g7h2",
+      "buildingName": "Example Tower",
+      "address": "123 Main Street"
+    },
+    {
+      "id": "u7y6t5",
+      "buildingName": "Central Plaza",
+      "address": "456 Elm Avenue"
+    },
+    {
+      "id": "z3x4c5",
+      "buildingName": "Skyrise Heights",
+      "address": "789 Oak Road"
+    },
+    {
+      "id": "p2o3i4",
+      "buildingName": "Sunset View",
+      "address": "101 Sunset Boulevard"
+    }
+  ]
+}
