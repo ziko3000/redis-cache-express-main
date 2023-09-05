@@ -1,10 +1,11 @@
-const express = require('express');
-const fs = require('fs');
+import express from 'express';
+import fs from 'fs';
+import { createClient } from 'redis';
+
 const app = express();
 const PORT = 3000;
 
-const redis = require('redis');
-const client = redis.createClient();
+const client = createClient();
 
 (async () => {
   await client.connect();
